@@ -1,0 +1,9 @@
+path: dataset
+train: images/train
+val: images/val
+
+names:
+  0: traffic_light_green
+  1: countdown_number
+  2: traffic_light_yellow
+  3: traffic_light_red
